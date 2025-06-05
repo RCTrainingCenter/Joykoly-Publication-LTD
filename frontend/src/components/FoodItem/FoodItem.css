@@ -42,10 +42,10 @@ margin-bottom: 10px;
 
 }
 .food-item-img-container .add{
-    width: 35px;
+    width: 250px;
     position: absolute;
-    bottom: 15px;
-    right: 15px;
+    bottom: -35px;
+    right: -35px;
     cursor: pointer;
     border-radius: 50%;
 }
